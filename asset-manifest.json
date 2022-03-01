@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AI-Technik/advice.git/static/css/main.3b3c888f.css",
+    "main.js": "/AI-Technik/advice.git/static/js/main.924c6e93.js",
+    "index.html": "/AI-Technik/advice.git/index.html",
+    "static/media/icon-dice.svg": "/AI-Technik/advice.git/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "main.3b3c888f.css.map": "/AI-Technik/advice.git/static/css/main.3b3c888f.css.map",
+    "main.924c6e93.js.map": "/AI-Technik/advice.git/static/js/main.924c6e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b3c888f.css",
+    "static/js/main.924c6e93.js"
+  ]
+}
